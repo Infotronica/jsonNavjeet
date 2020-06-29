@@ -1,1 +1,1 @@
-# jsonNavjeet is json sample for Navjeet.
+# jsonNavjeet is a json sample for Navjeet.
